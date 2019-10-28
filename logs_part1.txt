@@ -1,0 +1,43 @@
+32479c0 (HEAD -> master, test, release, develop) HEAD@{0}: merge develop: Fast-forward
+a673630 HEAD@{1}: checkout: moving from develop to master
+32479c0 (HEAD -> master, test, release, develop) HEAD@{2}: checkout: moving from test to develop
+32479c0 (HEAD -> master, test, release, develop) HEAD@{3}: merge develop: Fast-forward
+5cd59fa HEAD@{4}: checkout: moving from release to test
+32479c0 (HEAD -> master, test, release, develop) HEAD@{5}: merge develop: Fast-forward
+c3a6895 HEAD@{6}: checkout: moving from develop to release
+32479c0 (HEAD -> master, test, release, develop) HEAD@{7}: commit (merge): Merge branch 'release' into develop
+5cd59fa HEAD@{8}: merge test: Fast-forward
+23740b4 HEAD@{9}: reset: moving to HEAD~1
+dcda263 HEAD@{10}: reset: moving to HEAD~1
+fd0fdff HEAD@{11}: checkout: moving from release to develop
+c3a6895 HEAD@{12}: cherry-pick: Change Index
+ba2ccdb HEAD@{13}: cherry-pick: Add folder
+23740b4 HEAD@{14}: checkout: moving from develop to release
+fd0fdff HEAD@{15}: commit: Change Index
+dcda263 HEAD@{16}: commit: Add folder
+23740b4 HEAD@{17}: checkout: moving from test to develop
+:...skipping...
+32479c0 (HEAD -> master, test, release, develop) HEAD@{0}: merge develop: Fast-forward
+a673630 HEAD@{1}: checkout: moving from develop to master
+32479c0 (HEAD -> master, test, release, develop) HEAD@{2}: checkout: moving from test to develop
+32479c0 (HEAD -> master, test, release, develop) HEAD@{3}: merge develop: Fast-forward
+5cd59fa HEAD@{4}: checkout: moving from release to test
+32479c0 (HEAD -> master, test, release, develop) HEAD@{5}: merge develop: Fast-forward
+c3a6895 HEAD@{6}: checkout: moving from develop to release
+32479c0 (HEAD -> master, test, release, develop) HEAD@{7}: commit (merge): Merge branch 'release' into develop
+5cd59fa HEAD@{8}: merge test: Fast-forward
+23740b4 HEAD@{9}: reset: moving to HEAD~1
+dcda263 HEAD@{10}: reset: moving to HEAD~1
+fd0fdff HEAD@{11}: checkout: moving from release to develop
+c3a6895 HEAD@{12}: cherry-pick: Change Index
+ba2ccdb HEAD@{13}: cherry-pick: Add folder
+23740b4 HEAD@{14}: checkout: moving from develop to release
+fd0fdff HEAD@{15}: commit: Change Index
+dcda263 HEAD@{16}: commit: Add folder
+23740b4 HEAD@{17}: checkout: moving from test to develop
+5cd59fa HEAD@{18}: commit: Change HTML
+d151803 HEAD@{19}: commit: Add folder
+23740b4 HEAD@{20}: checkout: moving from develop to test
+23740b4 HEAD@{21}: commit: Add HTML
+a673630 HEAD@{22}: checkout: moving from master to develop
+a673630 HEAD@{23}: commit (initial): Add README
