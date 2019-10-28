@@ -1,0 +1,57 @@
+0b894a9 (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@{0}: merge develop: Fast-forward
+62c8072 HEAD@{1}: checkout: moving from develop to master
+0b894a9 (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@{2}: merge first: Fast-forward
+6abcf50 (second) HEAD@{3}: checkout: moving from first to develop
+0b894a9 (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@{4}: rebase -i (finish): returning to refs/heads/first
+0b894a9 (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@{5}: rebase -i (continue): Add style for body
+19c4854 HEAD@{6}: rebase -i (continue): Remove image from page
+74fe2f8 HEAD@{7}: rebase -i (pick): Change title in html page
+6abcf50 (second) HEAD@{8}: rebase -i (start): checkout develop
+1246c61 HEAD@{9}: checkout: moving from develop to first
+6abcf50 (second) HEAD@{10}: merge second: Fast-forward
+206407f HEAD@{11}: checkout: moving from second to develop
+6abcf50 (second) HEAD@{12}: rebase -i (finish): returning to refs/heads/second
+6abcf50 (second) HEAD@{13}: rebase -i (pick): Rename one of images
+32f5136 HEAD@{14}: commit (amend): Definetely best README
+a3f7ef5 HEAD@{15}: commit (amend): Definetely best README
+435153b HEAD@{16}: rebase -i (edit): Write best readme ever
+be6d91e HEAD@{17}: rebase -i (pick): Add paragraph to page and styles for it
+206407f HEAD@{18}: rebase -i (start): checkout develop
+:...skipping...
+0b894a9 (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@{0}: merge develop: Fast-forward
+62c8072 HEAD@{1}: checkout: moving from develop to master
+0b894a9 (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@{2}: merge first: Fast-forward
+6abcf50 (second) HEAD@{3}: checkout: moving from first to develop
+0b894a9 (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@{4}: rebase -i (finish): returning to refs/heads/first
+0b894a9 (HEAD -> master, origin/master, origin/HEAD, first, develop) HEAD@{5}: rebase -i (continue): Add style for body
+19c4854 HEAD@{6}: rebase -i (continue): Remove image from page
+74fe2f8 HEAD@{7}: rebase -i (pick): Change title in html page
+6abcf50 (second) HEAD@{8}: rebase -i (start): checkout develop
+1246c61 HEAD@{9}: checkout: moving from develop to first
+6abcf50 (second) HEAD@{10}: merge second: Fast-forward
+206407f HEAD@{11}: checkout: moving from second to develop
+6abcf50 (second) HEAD@{12}: rebase -i (finish): returning to refs/heads/second
+6abcf50 (second) HEAD@{13}: rebase -i (pick): Rename one of images
+32f5136 HEAD@{14}: commit (amend): Definetely best README
+a3f7ef5 HEAD@{15}: commit (amend): Definetely best README
+435153b HEAD@{16}: rebase -i (edit): Write best readme ever
+be6d91e HEAD@{17}: rebase -i (pick): Add paragraph to page and styles for it
+206407f HEAD@{18}: rebase -i (start): checkout develop
+ebba68d HEAD@{19}: checkout: moving from develop to second
+206407f HEAD@{20}: checkout: moving from second to develop
+ebba68d HEAD@{21}: commit: Rename one of images
+f9fc0a4 HEAD@{22}: commit: Write best readme ever
+b1afd4e HEAD@{23}: commit: Add paragraph to page and styles for it
+62c8072 HEAD@{24}: checkout: moving from first to second
+1246c61 HEAD@{25}: commit: Add style for body
+2b5decc HEAD@{26}: commit: Remove second image from page
+a48194a HEAD@{27}: commit: Remove image from page
+55d7f41 HEAD@{28}: commit: Change title in html page
+62c8072 HEAD@{29}: checkout: moving from develop to first
+206407f HEAD@{30}: commit: Add .gitignore
+62c8072 HEAD@{31}: checkout: moving from first to develop
+62c8072 HEAD@{32}: checkout: moving from second to first
+62c8072 HEAD@{33}: checkout: moving from develop to second
+62c8072 HEAD@{34}: checkout: moving from first to develop
+62c8072 HEAD@{35}: checkout: moving from develop to first
+62c8072 HEAD@{36}: checkout: moving from master to develop
